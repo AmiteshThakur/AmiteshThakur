@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/@amitesh172212" target="blank"><img src="https://img.shields.io/twitter/follow/@amitesh172212?logo=twitter&style=for-the-badge" alt="@amitesh172212" /></a> </p>
 
-- 🌱 I’m currently learning **Spring boot, React**
+- 🌱 I’m currently learning **AI and ML , React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmiteshThakur?tab=repositories](https://github.com/AmiteshThakur?tab=repositories)
 
-- 💬 Ask me about **Java , Spring, Javascript , C**
+- 💬 Ask me about **Java , Springboot, Spring, J2EE, Javascript , C**
 
 - 📫 How to reach me **athakur9691@gmail.com**
 

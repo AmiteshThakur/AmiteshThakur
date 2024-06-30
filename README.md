@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amitesh Thakur</h1>
 <h3 align="center">A passionate Java Full Stack Developer from India.</h3>
-<h2>My interest lies in Full Stack Development and AI/ ML. I am a MCA graduate from the IPS Academy, Indore. I like participating in Hackathons During my free time, I love playing chess and making paintings.</h2>
+<h5>My interest lies in Full Stack Development and AI/ ML. I am a MCA graduate from the IPS Academy, Indore. I like participating in Hackathons During my free time, I love playing chess and making paintings.</h5>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/divyanshusahu/divyanshusahu/main/developer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amiteshthakur&label=Profile%20views&color=0e75b6&style=flat" alt="amiteshthakur" /> </p>
